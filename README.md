@@ -72,6 +72,11 @@ Execute the car_detection.py script for car detection:
 !python car_detection.py
 ```
 
+Input File :
+```
+/content/ML_PROJECT/Input/bike.webp
+```
+
 ## Step 5: Run train.py Script
 
 Run the train.py script to train your machine learning model:
