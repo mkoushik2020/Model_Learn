@@ -4,7 +4,7 @@
 
 Navigate to your project directory using the following command:
 
-cd /content/ML_PROJECT
+```cd /content/ML_PROJECT```
 
 ## Step 1: Install Required Packages
 
