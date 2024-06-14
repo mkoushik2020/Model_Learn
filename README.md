@@ -1,10 +1,13 @@
+# Machine Learning Project Sunsky Software
+
 <div style="text-align:center">
   <img src="http://www.sunskysoftware.com/images/logo-default-229x43.png" alt="Sunsky Software Logo">
 </div>
-  
-# Machine Learning Project Sunsky Software
 
-## Step 0: Runtime > Change Runtime > Select GPU
+## Step 0: 
+```
+Runtime > Change Runtime > Select GPU
+```
 
 ## Step 1: Navigate to Project Directory
 
