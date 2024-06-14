@@ -4,6 +4,8 @@
   <img src="http://www.sunskysoftware.com/images/logo-default-229x43.png" alt="Sunsky Software Logo">
 </div>
 
+Create new colab noot book : https://colab.research.google.com/#create=true
+
 ## Step 0: Change Runtime TO GPU
 ```
 Runtime > Change Runtime > Select GPU
