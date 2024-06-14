@@ -62,21 +62,21 @@ clone_with_progress(repo_url, clone_dir)
 
 Install the Ultralytics package for your machine learning project:
 ```
-pip install ultralytics
+!pip install ultralytics
 ```
 
 ## Step 4: Run car_detection.py Script
 
 Execute the car_detection.py script for car detection:
 ```
-python car_detection.py
+!python car_detection.py
 ```
 
 ## Step 5: Run train.py Script
 
 Run the train.py script to train your machine learning model:
 ```
-python train.py
+!python train.py
 ```
 
 ---
