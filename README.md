@@ -12,12 +12,14 @@ cd /content/ML_PROJECT
 
 Install the necessary Python packages using pip:
 
+```
 pip install tqdm gitpython
+```
 
 ## Step 2: Clone Git Repository with Progress Bar
 
 Clone a Git repository with a progress bar implemented in Python:
-
+```
 from git import Repo
 from tqdm import tqdm
 import os
@@ -47,24 +49,28 @@ def clone_with_progress(repo_url, clone_dir):
 repo_url = 'https://github.com/mkoushik2020/Model_Learn.git'
 clone_dir = '/content/ML_PROJECT'
 clone_with_progress(repo_url, clone_dir)
+```
 
 ## Step 3: Install Ultralytics Package
 
 Install the Ultralytics package for your machine learning project:
-
+```
 pip install ultralytics
+```
 
 ## Step 4: Run car_detection.py Script
 
 Execute the car_detection.py script for car detection:
-
+```
 python car_detection.py
+```
 
 ## Step 5: Run train.py Script
 
 Run the train.py script to train your machine learning model:
-
+```
 python train.py
+```
 
 ---
 
