@@ -1,4 +1,4 @@
-# Machine Learning Project README
+# Machine Learning Project Sunsky Software
 
 ## Step 0: Navigate to Project Directory
 
