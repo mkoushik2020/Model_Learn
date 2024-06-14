@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "10 wheel large truck"
+    },
+    {
+      "id": 1,
+      "name": "3 wheel motorbike"
+    },
+    {
+      "id": 2,
+      "name": "3-wheel-bike"
+    },
+    {
+      "id": 3,
+      "name": "4 wheel small truck"
+    },
+    {
+      "id": 4,
+      "name": "6 wheel medium truck"
+    },
+    {
+      "id": 5,
+      "name": "SUV"
+    },
+    {
+      "id": 6,
+      "name": "Six-wheeled vehicle bus"
+    },
+    {
+      "id": 7,
+      "name": "Two-section pickup truck"
+    },
+    {
+      "id": 8,
+      "name": "bicycle"
+    },
+    {
+      "id": 9,
+      "name": "bus"
+    },
+    {
+      "id": 10,
+      "name": "car"
+    },
+    {
+      "id": 11,
+      "name": "motorbike"
+    },
+    {
+      "id": 12,
+      "name": "semi trailer truck"
+    },
+    {
+      "id": 13,
+      "name": "songthaew"
+    },
+    {
+      "id": 14,
+      "name": "tow truck"
+    },
+    {
+      "id": 15,
+      "name": "truck"
+    },{
+      "id": 16,
+      "name": "van"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Sunsky Software"
+  }
+}

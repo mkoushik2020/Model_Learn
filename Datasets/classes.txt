@@ -1,0 +1,17 @@
+10 wheel large truck
+3 wheel motorbike
+3-wheel-bike
+4 wheel small truck
+6 wheel medium truck
+SUV
+Six-wheeled vehicle bus
+Two-section pickup truck
+bicycle
+bus
+car
+motorbike
+semi trailer truck
+songthaew
+tow truck
+truck
+van
