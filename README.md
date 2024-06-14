@@ -1,3 +1,4 @@
+![Sunsky Software Logo](http://www.sunskysoftware.com/images/logo-default-229x43.png)
 # Machine Learning Project Sunsky Software
 
 ## Step 0: Navigate to Project Directory
