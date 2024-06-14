@@ -3,6 +3,9 @@
 ## Step 0: Navigate to Project Directory
 
 Navigate to your project directory using the following command:
+```
+mkdir -p /content/ML_PROJECT
+```
 
 ```
 cd /content/ML_PROJECT
