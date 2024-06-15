@@ -1,4 +1,4 @@
-path: /content/ML_PROJECT/Datasets  # dataset root dir
+path: /content/Model_Learn/Datasets  # dataset root dir
 train: images/train  # train images (relative to 'path')
 val: images/val  # val images (relative to 'path')
 test:  # test images (optional)
