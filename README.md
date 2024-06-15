@@ -15,11 +15,11 @@ Runtime > Change Runtime > Select GPU
 
 Navigate to your project directory using the following command:
 ```
-mkdir -p /content/ML_PROJECT
+mkdir -p /content/Model_Learn
 ```
 
 ```
-cd /content/ML_PROJECT
+cd /content/Model_Learn
 ```
 
 ## Step 2: Install Required Packages
@@ -61,7 +61,7 @@ def clone_with_progress(repo_url, clone_dir):
     Repo.clone_from(repo_url, clone_dir, progress=progress)
 
 repo_url = 'https://github.com/mkoushik2020/Model_Learn.git'
-clone_dir = '/content/ML_PROJECT'
+clone_dir = '/content/Model_Learn'
 clone_with_progress(repo_url, clone_dir)
 ```
 
@@ -81,7 +81,7 @@ Execute the car_detection.py script for car detection:
 
 Input File :
 ```
-/content/ML_PROJECT/Input/bike.webp
+/content/Model_Learn/Input/bike.webp
 ```
 
 ## Step 6: Run train.py Script
