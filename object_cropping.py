@@ -1,11 +1,9 @@
 import os
-
 import cv2
-
 from ultralytics import YOLO
 from ultralytics.utils.plotting import Annotator, colors
 
-model = YOLO("yolov8m.pt")
+model = YOLO("best_new.pt.pt")
 names = model.names
 
 cap = cv2.VideoCapture("Input/highway.mp4")
