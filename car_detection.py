@@ -110,8 +110,8 @@ import os
 model = YOLO('best_new.pt')  # You can choose different YOLOv8 models like yolov8s.pt, yolov8m.pt, etc.
 
 # Define the class names based on your model's training
-class_names = {0: '10 Wheeler', 1: 'MotorVan', 2: 'MotorVan', 3: '4 Wheeler',
-               4: '6 Wheeler', 7: '6 Wheeler', 12: '4 Wheeler', 14: '6 Wheeler',
+class_names = {0: '10 Wheeler', 1: 'MotorVan Wheeler', 2: 'MotorVan', 3: '4 Wheeler',
+               4: '6 Wheeler', 7: '6 Wheeler', 12: '10 Wheeler', 14: '6 Wheeler',
                15: '4 Wheeler', 16: '4 Wheeler'}
 
 
@@ -130,6 +130,8 @@ def process_frame(frame):
                 color = (0, 255, 0) if 'Wheeler' in label else (0, 0, 255)
                 cv2.rectangle(frame, (x1, y1), (x2, y2), color, 2)
                 cv2.putText(frame, label, (x1, y1 - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
+                print()
+
     return frame
 
 
